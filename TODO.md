@@ -1,0 +1,8 @@
+- [x] Implement __init__(self, value="")
+- [x] Add @property value
+- [x] Add @value.setter
+- [x] Implement is_sentence(self)
+- [x] Implement is_question(self)
+- [x] Implement is_exclamation(self)
+- [x] Implement count_sentences(self)
+- Run pytest to verify
